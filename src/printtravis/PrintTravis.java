@@ -19,5 +19,6 @@ public class PrintTravis {
     }
      public static void printTravis(){
         System.out.println("Travis Aites");
+        System.out.println("Sorry it's life");
     }
 }
