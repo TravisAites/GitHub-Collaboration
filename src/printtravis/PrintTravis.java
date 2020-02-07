@@ -21,7 +21,7 @@ public class PrintTravis {
         System.out.println("Travis Aites");
         System.out.println("Sorry it's life");
     }
-    public static void gameOfLife(){
+    public static void newMethod(){
         System.out.println("This is totally the game of life!");
     }
 }
